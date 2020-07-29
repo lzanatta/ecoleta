@@ -1,11 +1,11 @@
 # Ecoleta - create and find waste collection points 
 
-### Project developed during [Rocketseat](https://rocketseat.com.br/)'s Next Level Week event
+### Project developed during [Rocketseat](https://rocketseat.com.br/)'s Next Level Week #1 event
 
 The project is split into three main parts:
- - **server**: API for managing database access (creating and listing waste collection points)
+ - **server**: API for creating and listing waste collection points
  - **web**: web site for registering waste collection points
- - **mobile**: 
+ - **mobile**: mobile app for viewing collection points
 
 ### Running the project:
 
@@ -17,3 +17,5 @@ The project is split into three main parts:
  - Web: `npm start`
 
  - Mobile: 
+    - If you don't already have it, install [expo](https://expo.io/): `npm install -g expo-cli`
+    - Start application: `npm start`
